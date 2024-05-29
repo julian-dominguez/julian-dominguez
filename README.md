@@ -27,7 +27,7 @@ Soy un desarrollador PHP apasionado con una sólida experiencia en **Symfony** y
 
 ## 🤝 Conectemos
 
-- [LinkedIn](www.linkedin.com/in/julian-david-dominguez-calero)
+- [LinkedIn](https://www.linkedin.com/in/julian-david-dominguez-calero)
 
 Gracias por visitar mi perfil de GitHub. ¡Estoy emocionado de conectar y colaborar contigo!
 

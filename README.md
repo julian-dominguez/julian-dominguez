@@ -17,7 +17,7 @@ Soy un desarrollador PHP apasionado con una sólida experiencia en **Symfony** y
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=julian-dominguez&show_icons=true&theme=radical)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=julian-dominguez&show_icons=true&theme=radical)]
 
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-dominguez&layout=compact&theme=radical)
 
